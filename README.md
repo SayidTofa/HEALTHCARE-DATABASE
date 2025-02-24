@@ -1,3 +1,20 @@
+## Table of Contents
+- [Project Description](#project-description)
+- [Project Objectives](#project-objectives)
+  - [Employee Management](#employee-management)
+  - [Patient Records & Appointments](#patient-records--appointments)
+  - [Medical Records & Treatments](#medical-records--treatments)
+  - [Financial Management](#financial-management)
+- [Key Insights](#key-insights)
+  - [Employee Structure & Payroll](#employee-structure--payroll)
+  - [Patient Treatment & Appointments](#patient-treatment--appointments)
+  - [Health Center Financial Trends](#health-center-financial-trends)
+- [Recommendations](#recommendations)
+  - [Optimize Resource Allocation](#optimize-resource-allocation)
+  - [Improve Patient Experience](#improve-patient-experience)
+  - [Enhance Financial Management](#enhance-financial-management)
+
+
 ## Project Description
 The Community Health Center Database is designed to manage key aspects of a health center’s operations, including employee records, patient details, appointments, medical treatments, and financial transactions. The database is structured using MySQL and contains multiple tables to facilitate efficient data management.
 
